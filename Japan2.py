@@ -1,1 +1,2 @@
 
+print('Are you Japanese??')
